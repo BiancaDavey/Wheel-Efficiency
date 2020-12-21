@@ -1,6 +1,6 @@
 # Hamster
 
-This program simulates a hamster wheel and provides methods for calculating the efficiency, charge and total count for a given char array obtained by user input.
+This program simulates a wheel and provides methods for calculating the efficiency, charge and total count for a given char array obtained by user input.
 
 ## Features
 
