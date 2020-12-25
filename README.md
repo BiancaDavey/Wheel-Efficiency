@@ -1,4 +1,4 @@
-# Hamster
+# WheelEfficiency
 
 This program simulates a wheel and provides methods for calculating the efficiency and charge for a given sequence of three values input by the user and handled as a char array.
 
