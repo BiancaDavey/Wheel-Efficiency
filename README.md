@@ -1,28 +1,32 @@
 # Hamster
 
-This program simulates a wheel and provides methods for calculating the efficiency, charge and total count for a given char array obtained by user input.
+This program simulates a wheel and provides methods for calculating the efficiency and charge for a given sequence of three values input by the user and handled as a char array.
 
 ## Features
 
-* add details
+* User can input unique combinations of three values to be calculated.
+* Values representing feed, motivation and hydration stored and handled in a char array for calculation.
+* Algorithm used to calculate efficiency, charge and total count of the sequence input.
 
 ## Installation
 
-Java API is required to run this program.
+Java is required to run this program.
 
 ## Usage
 
-1. Compile Hamster.java 
-2. Compile HamsterDemo.java
-3. Run the program with the command java HamsterDemo
-4. Input ... add details
+1. Compile the program class with the command `Wheel.java`. 
+2. Compile the demonstration class with the command `WheelDemo.java`.
+3. Run the program with the command `java WheelDemo`.
+4. Input char f, h or m for each cycle. 
+5. Press the `Enter` key to input a value for the next cycle. 
+6. After values for 20 cycles are input, the program will output the efficiency and charge reached by the sequence.
 
 ## Usage Example
 
 ```
-javac Hamster.java
-javac HamsterDemo.java
-java HamsterDemo
+javac Wheel.java
+javac WheelDemo.java
+java WheelDemo
 ```
 
 
